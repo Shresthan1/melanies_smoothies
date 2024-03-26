@@ -1,5 +1,5 @@
-snowflake
-python=3.8.*
-snowflake-connector-python==3.0.2
-snowflake-snowpark-python==1.2.0
-streamlit==1.32.2
+-snowflake
+-python=3.8.*
+-snowflake-connector-python==3.0.2
+-snowflake-snowpark-python==1.2.0
+-streamlit==1.32.2
