@@ -1,5 +1,5 @@
 snowflake==0.7.0
 streamlit==1.32.2
-Python ==3.8.*
+Python ==3.9
 snowflake-snowpark-python==1.7.0
 
