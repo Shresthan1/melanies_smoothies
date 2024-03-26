@@ -1,4 +1,3 @@
-app_environment
   - snowflake
   - python=3.8.*
   - snowflake-snowpark-python=
